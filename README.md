@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fl3p</h1>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=me+fl3p" alt="Typing SVG" /></p>
 
-I'm fl3p.
+[![GitHub](https://img.shields.io/badge/-181717?style=plastic&logoSize=auto&logo=github&logoColor=white)](https://github.com/Fl3p) [![X](https://img.shields.io/badge/-000000?style=plastic&logoSize=auto&logo=x&logoColor=white)](https://x.com/fl3p-xd.bsky.social)
 
-[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fl3p)
+## GitHub Activity Graph
 
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fl3p/Fl3p/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fl3p/Fl3p/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fl3p/Fl3p/output/github-contribution-grid-snake.svg" />
-</picture>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fl3p&theme=tokyo-night&hide_border=true)
